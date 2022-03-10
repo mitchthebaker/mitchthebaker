@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mitchthebaker
+- 👋 Hey, I’m @mitchthebaker
 - 👀 Passionate about React, Typescript, Node.js, AWS, MongoDB/SQL
-- 🌱 Currently learning Typescript, Python for AI, and MySQL for creating relational databases
+- 🌱 Currently learning React testing with react-testing-library/Enzyme, Docker, and GraphQL
 - 📫 You can best reach me on LinkedIn! https://www.linkedin.com/in/mitchel-baker-146768146/
 
 <!---
