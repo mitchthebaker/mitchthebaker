@@ -1,6 +1,6 @@
 - 👋 Hey, I’m @mitchthebaker
-- 👀 Passionate about React, Typescript, Node.js, AWS, and anything SQL based
-- 📫 You can best reach me on LinkedIn! https://www.linkedin.com/in/mitchel-baker-146768146/
+- 👀 Building apps on the web with React, Typescript, Node.js, AWS, Postgres
+- 📫 Shoot me an email at mitchthebaker@pm.me, or send a message here: https://www.linkedin.com/in/mitchel-baker-146768146/
 
 <!---
 mitchthebaker/mitchthebaker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
