@@ -1,5 +1,5 @@
 - 👋 Hey, I’m @mitchthebaker
-- 👀 Building apps on the web with React, Typescript, Node.js, AWS, Postgres
+- 👀 Currently building apps on the web with React, Typescript, Node.js, Ruby on Rails, AWS/DigitalOcean, Postgres, Docker
 - 📫 Shoot me an email at mitchthebaker@pm.me, or send a message here: https://www.linkedin.com/in/mitchel-baker-146768146/
 
 <!---
