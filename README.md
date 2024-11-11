@@ -1,6 +1,5 @@
 - 👋 Hey, I’m @mitchthebaker
-- 👀 Currently building apps with React, Typescript, Node.js, Ruby on Rails, AWS/DigitalOcean, Postgres, Docker
-- 📫 Shoot me an email at mitchthebaker@pm.me
+- Building tools primarily in React/Typescript, Node.js, Python, AWS/DigitalOcean/Azure, Docker
 
 <!---
 mitchthebaker/mitchthebaker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
