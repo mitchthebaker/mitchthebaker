@@ -1,5 +1,4 @@
 - Technical stack consists primarily of JavaScript/Typescript (and as an extension React, Next.js, et al), Node.js, Python, AWS/DigitalOcean/Azure, Docker. Have been programming a lot in PowerShell too.
-- Although my primary editor is VSCode I dabble in Vim -- gradually learning more as I use it.
 
 ### Latest development efforts
 
